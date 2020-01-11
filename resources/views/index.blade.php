@@ -54,7 +54,7 @@
         <div class="container">
             <nav id="navbar-main" class="navbar navbar-expand-lg">
                 <a class="navbar-brand" href="#home">
-                    <img src="/images/my/logo.png" alt="" height="50px" />
+                 MetalLibrary
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -251,7 +251,7 @@
 
                 <div class="col-sm-12 col-md-12 col-lg-6">
                     <h2 class="text-white text-shadowed">
-                        Influence application development.
+                        Influence application development
                     </h2>
 
                     <p class="text-white text-shadowed">You can directly influence the further development of the application. To do this, I opened a separate channel in a telegram for everyone.</p>
