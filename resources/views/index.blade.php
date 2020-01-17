@@ -337,8 +337,8 @@
 
             <div class="row mt-4">
                 <div class="col-sm-12 col-md-12 col-lg-6 p-30">
-                    <p class="text-white text-shadowed">Telegram: @vortgo</p>
-                    <p class="text-white text-shadowed" >Telegram-dev-channel: @metallibrary-dev</p>
+                    <p class="text-white text-shadowed">Telegram: <a class="text-primary" href="https://t.me/vortgo" target="_blank">@vortgo</a></p>
+                    <p class="text-white text-shadowed">Telegram-dev-channel: <a class="text-primary" href="https://t.me/metallibrary_dev" target="_blank"> @metallibrary_dev</a></p>
                     <p class="text-white text-shadowed">Email: vortgo@gmail.com</p>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 p-30">
